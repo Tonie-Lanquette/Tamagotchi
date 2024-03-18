@@ -1,0 +1,270 @@
+/* Reset CSS */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* General css */
+.hover:hover {
+    border: inset 8px rgb(173, 173, 173);
+    background-color: rgb(103, 103, 103);
+}
+
+p {
+    font-family: 'Press Start 2P', system-ui;
+    font-size: 18px;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    background-image: url('../media/background.png');
+    background-size: cover;
+}
+
+/* Modal class */
+.hidden {
+    display: none;
+}
+
+.appear {
+    display: block;
+}
+
+/* Début page d'arrivée  */
+
+
+
+#login {
+    font-size: 30px;
+}
+
+.login {
+    position: absolute;
+    z-index: 3;
+    background-color: rgba(48, 48, 48);
+    width: 100%;
+    height: 100vh;
+}
+
+.loginWindow {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Press Start 2P', system-ui;
+    font-size: 18px;
+    color: rgb(48 48 48);
+    z-index: 2;
+    position: absolute;
+    top: 10vh;
+    left: 30%;
+    width: 40%;
+    height: 80vh;
+    background-color: rgb(124, 124, 124);
+    border: outset 20px rgb(173, 173, 173);
+    text-align: center;
+    justify-content: space-around;
+}
+
+#tamaName {
+    border: none;
+    border-bottom: 3px solid rgb(48 48 48);
+    background: none;
+    height: 20px;
+    width: 150px;
+}
+
+.gender {
+    margin-left: 5%;
+}
+
+.radio {
+    padding: 1vh 0;
+}
+
+.radio:hover {
+    color: rgb(219, 255, 41);
+    text-shadow: 10px 5px 1px rgb(70, 70, 70);
+    cursor: pointer;
+}
+
+.save:hover {
+    font-size: 25px;
+    color: rgb(219, 255, 41);
+    text-shadow: 10px 5px 1px rgb(70, 70, 70);
+    cursor: pointer;
+}
+
+/* Début fenetre de stats */
+.stats {
+    background-color: rgb(161, 161, 161);
+    border: outset 10px rgb(202, 202, 202);
+    width: 25%;
+    position: absolute;
+    top: 10%;
+    left: 5%
+}
+
+.nameGen {
+    display: flex;
+    align-items: center;
+}
+
+/* Jauges vie/lvl */
+.size {
+    font-size: 11px;
+}
+
+.lvl {
+    display: flex;
+    align-items: center;
+}
+
+#levelBarProgress {
+    width: 75%;
+    height: 10px;
+    background-color: rgb(112, 112, 112);
+    border: solid rgb(48, 48, 48) 2px;
+    border-radius: 10px;
+
+}
+
+#levelBar {
+    width: 1%;
+    height: 10px;
+    background-color: rgb(51, 238, 238);
+    border-radius: 10px;
+}
+
+.container {
+    justify-content: center;
+    display: flex;
+    margin: 10px 0;
+}
+
+.barre {
+    width: 95%;
+    height: 15px;
+    background-color: rgb(112, 112, 112);
+    border: solid rgb(48, 48, 48) 2px;
+    border-radius: 10px;
+}
+
+.textStat {
+    font-size: 12px;
+    margin: 0;
+    position: absolute;
+    margin: 2px 0 0 35%;
+    z-index: 1;
+}
+
+.progress {
+    height: 15px;
+    border-radius: 10px;
+    position: relative;
+}
+
+/* Fin fenetre de stats */
+
+
+/* My animal */
+.tamakemon {
+    width: 25%;
+    margin: 16vh 37.5% 10vh 37.5%;
+}
+
+.message {
+    background-color: white;
+    text-align: center;
+    padding: 5px 0;
+    position: absolute;
+    width: 100%;
+    margin-top: -12vh;
+}
+
+/* Settings */
+.settings {
+    position: absolute;
+    top: 3%;
+    right: 1%;
+    width: 80px;
+}
+
+.settings:hover {
+    width: 100px;
+    top: 2%;
+    right: 0.5%;
+}
+
+.settingsPage {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(24, 24, 24, 0.678);
+}
+
+
+
+
+/* Boutons intéractifs bas de page */
+.interactionBar {
+    height: 20vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.food {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 40%;
+    background-color: rgb(124, 124, 124);
+    border: outset 10px rgb(173, 173, 173);
+}
+
+.hover:hover {
+    border: inset 8px rgb(173, 173, 173);
+    background-color: rgb(103, 103, 103);
+}
+
+.pet {
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    background-color: rgb(124, 124, 124);
+    border: outset 10px rgb(173, 173, 173);
+}
+
+.petLogo {
+    width: 97.5%;
+}
+
+/* Game over */
+h1 {
+    color: white;
+    font-size: 120px;
+    font-family: 'Press Start 2P', system-ui;
+    margin: 0;
+
+}
+
+.over {
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(48, 48, 48);
+    text-align: center;
+    padding-top: 35vh;
+}
+
+.replay {
+    margin-top: 20vh;
+    color: white;
+}
+
+.replay:hover {
+    color: rgb(219, 255, 41);
+    text-shadow: 10px 5px 1px rgb(70, 70, 70);
+    cursor: pointer;
+}

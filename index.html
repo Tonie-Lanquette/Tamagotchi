@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tamakemon</title>
+    <link rel="stylesheet" href="style/style.css" />
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/png" href="media/favicon.ico" />
+
+    <!-- Scripts -->
+    <script src="script/script.js" type="module"></script>
+
+    <!-- Typographie -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="main">
+      <!-- Début formulaire d'arrivée -->
+      <div id="formulaire" class="login">
+        <div class="loginWindow">
+          <p id="login">Login :</p>
+          <form>
+            <label for="tamaName">Name : </label>
+            <input
+              type="text"
+              id="tamaName"
+              maxlength="12"
+              minlength="4"
+              required
+            />
+          </form>
+          <form>
+            <p>Gender :</p>
+
+            <input type="radio" id="female" name="gender" value="(F)" />
+            <label class="radio" for="female">Female</label>
+
+            <input type="radio" id="male" name="gender" value="(M)" />
+            <label class="radio" for="male">Male</label>
+          </form>
+          <div class="save">
+            <p>Start</p>
+          </div>
+        </div>
+      </div>
+      <!-- Fin formulair d'arrivée -->
+
+      <!-- Début musique -->
+      <div class="music">
+        <audio id="myAudio" src="audio/music.mp3" muted loop></audio>
+      </div>
+      <!-- Fin musique -->
+
+      <!-- Début stats -->
+      <div class="stats">
+        <div class="nameGen"></div>
+
+        <!-- Bars de stats -->
+        <div class="statsBars">
+          <div class="lvl">
+            <p class="level size">LVL <span id="up"></span>:</p>
+            <div id="levelBarProgress">
+              <div id="levelBar"></div>
+            </div>
+          </div>
+          <p class="size">Food :</p>
+          <div id="food" class="statBar"></div>
+          <p class="size">Love :</p>
+          <div id="love" class="statBar"></div>
+        </div>
+      </div>
+      <!-- Fin stats -->
+
+      <!-- Début Tamakemon -->
+      <div>
+        <div class="base">
+          <img class="tamakemon frame1 appear" src="media/bulbasaur1.svg" />
+          <img class="tamakemon frame2 hidden" src="media/bulbasaur1bis.svg" />
+        </div>
+        <div class="secund hidden">
+          <img class="tamakemon frame1 appear" src="media/bulbasaur2.svg" />
+          <img class="tamakemon frame2 hidden" src="media/bulbasaur2bis.svg" />
+        </div>
+        <div class="third hidden">
+          <img class="tamakemon frame1 appear" src="media/bulbasaur3.svg" />
+          <img class="tamakemon frame2 hidden" src="media/bulbasaur3bis.svg" />
+        </div>
+
+        <div class="message hidden"></div>
+      </div>
+      <!-- Fin Tamakemon -->
+
+      <!-- Début music settings -->
+      <img
+        class="musicOff settings appear"
+        src="media/MusicOff.svg"
+        alt="settings icone for music"
+      />
+      <img
+        class="musicOn settings hidden"
+        src="media/MusicOn.svg"
+        alt="settings icone for music"
+      />
+      <!-- Fin music settings -->
+
+      <!-- Début barre d'interraction -->
+      <div class="interactionBar">
+        <div class="food">
+          <img class="apple hover" src="media/apple.svg" />
+          <img class="meat hover" src="media/meat.svg" />
+          <img class="fish hover" src="media/fish.svg" />
+        </div>
+        <div class="pet">
+          <img class="petLogo hover" src="media/pet.svg" alt="hand icone" />
+        </div>
+      </div>
+      <!-- Fin barre d'interraction -->
+    </div>
+  </body>
+</html>

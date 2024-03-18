@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1080 1080" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter" width="84.4105" x="458.295" y="830.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_2" width="84.4105" x="458.295" y="747.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_3" width="84.4105" x="789.197" y="415.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_4" width="84.4105" x="873.295" y="332.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_5" width="84.4105" x="541.295" y="498.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_6" width="84.4105" x="541.295" y="415.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_7" width="84.4105" x="458.295" y="913.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_8" width="84.4105" x="541.295" y="664.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_9" width="84.4105" x="541.295" y="581.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_10" width="84.4105" x="541.295" y="830.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_11" width="84.4105" x="541.295" y="747.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_12" width="84.4105" x="209.295" y="913.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_13" width="84.4105" x="541.295" y="0.294774">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_14" width="84.4105" x="873.295" y="249.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_15" width="84.4105" x="790.295" y="249.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_16" width="84.4105" x="541.295" y="332.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_17" width="84.4105" x="541.295" y="249.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_18" width="84.4105" x="209.295" y="830.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_19" width="84.4105" x="541.295" y="913.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_20" width="84.4105" x="375.295" y="996.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_21" width="84.4105" x="375.295" y="913.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_22" width="84.4105" x="375.295" y="830.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_23" width="84.4105" x="375.295" y="747.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_24" width="84.4105" x="292.295" y="830.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_25" width="84.4105" x="292.295" y="747.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_26" width="84.4105" x="292.295" y="996.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_27" width="84.4105" x="292.295" y="913.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_28" width="84.4105" x="707.295" y="83.2948">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_29" width="84.4105" x="624.295" y="83.2948">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_30" width="84.4105" x="707.295" y="166.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_31" width="84.4105" x="790.295" y="166.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_32" width="84.4105" x="541.295" y="166.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_33" width="84.4105" x="541.295" y="83.2948">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_34" width="84.4105" x="624.295" y="0.294774">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_35" width="84.4105" x="414.295" y="332.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_36" width="84.4105" x="331.295" y="332.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_37" width="84.4105" x="580.295" y="581.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_38" width="84.4105" x="580.295" y="498.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_39" width="84.4105" x="331.295" y="249.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_40" width="84.4105" x="248.295" y="249.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_41" width="84.4105" x="497.295" y="498.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_42" width="84.4105" x="497.295" y="415.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_43" width="84.4105" x="165.295" y="83.2948">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_44" width="84.4105" x="165.295" y="166.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_45" width="84.4105" x="248.295" y="166.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_46" width="84.4105" x="663.295" y="581.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_47" width="84.4105" x="414.295" y="415.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_48" width="84.4105" x="664.697" y="664.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_49" width="84.4105" x="913.697" y="913.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_50" width="84.4105" x="830.697" y="747.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_51" width="84.4105" x="747.697" y="747.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_52" width="84.4105" x="830.697" y="830.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_53" width="84.4105" x="913.697" y="830.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="84.4105" id="Filter_54" width="84.4105" x="747.697" y="664.295">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="0.28209"/>
+</filter>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="1080" width="1080" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Calque-1" vectornator:layerName="Calque 1">
+<path d="M459 831L542 831L542 914L459 914L459 831Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 1"/>
+<path d="M459 748L542 748L542 831L459 831L459 748Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_2)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 2"/>
+<path d="M789.902 416L872.902 416L872.902 499L789.902 499L789.902 416Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_3)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 5"/>
+<path d="M874 333L957 333L957 416L874 416L874 333Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_4)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 6"/>
+<path d="M542 499L625 499L625 582L542 582L542 499Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_5)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 7"/>
+<path d="M542 416L625 416L625 499L542 499L542 416Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_6)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 8"/>
+<path d="M459 914L542 914L542 997L459 997L459 914Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_7)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 10"/>
+<path d="M542 665L625 665L625 748L542 748L542 665Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_8)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 11"/>
+<path d="M542 582L625 582L625 665L542 665L542 582Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_9)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 12"/>
+<path d="M542 831L625 831L625 914L542 914L542 831Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_10)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 13"/>
+<path d="M542 748L625 748L625 831L542 831L542 748Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_11)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 14"/>
+<path d="M210 914L293 914L293 997L210 997L210 914Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_12)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 15"/>
+<path d="M542 1L625 1L625 84L542 84L542 1Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_13)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 25"/>
+<path d="M874 250L957 250L957 333L874 333L874 250Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_14)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 27"/>
+<path d="M791 250L874 250L874 333L791 333L791 250Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_15)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 28"/>
+<path d="M542 333L625 333L625 416L542 416L542 333Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_16)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 29"/>
+<path d="M542 250L625 250L625 333L542 333L542 250Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_17)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 30"/>
+<path d="M210 831L293 831L293 914L210 914L210 831Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_18)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 26"/>
+<path d="M542 914L625 914L625 997L542 997L542 914Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_19)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 16"/>
+<path d="M376 997L459 997L459 1080L376 1080L376 997Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_20)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 17"/>
+<path d="M376 914L459 914L459 997L376 997L376 914Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_21)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 18"/>
+<path d="M376 831L459 831L459 914L376 914L376 831Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_22)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 19"/>
+<path d="M376 748L459 748L459 831L376 831L376 748Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_23)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 20"/>
+<path d="M293 831L376 831L376 914L293 914L293 831Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_24)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 21"/>
+<path d="M293 748L376 748L376 831L293 831L293 748Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_25)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 22"/>
+<path d="M293 997L376 997L376 1080L293 1080L293 997Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_26)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 23"/>
+<path d="M293 914L376 914L376 997L293 997L293 914Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_27)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 24"/>
+<path d="M708 84L791 84L791 167L708 167L708 84Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_28)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 31"/>
+<path d="M625 84L708 84L708 167L625 167L625 84Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_29)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 32"/>
+<path d="M708 167L791 167L791 250L708 250L708 167Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_30)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 36"/>
+<path d="M791 167L874 167L874 250L791 250L791 167Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_31)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 37"/>
+<path d="M542 167L625 167L625 250L542 250L542 167Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_32)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 33"/>
+<path d="M542 84L625 84L625 167L542 167L542 84Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_33)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 34"/>
+<path d="M625 1L708 1L708 84L625 84L625 1Z" fill="#505050" fill-rule="nonzero" filter="url(#Filter_34)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 38"/>
+</g>
+<g id="Calque-2" vectornator:layerName="Calque 2">
+<path d="M415 333L498 333L498 416L415 416L415 333Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_35)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 5"/>
+<path d="M332 333L415 333L415 416L332 416L332 333Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_36)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 6"/>
+<path d="M581 582L664 582L664 665L581 665L581 582Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_37)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 7"/>
+<path d="M581 499L664 499L664 582L581 582L581 499Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_38)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 8"/>
+<path d="M332 250L415 250L415 333L332 333L332 250Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_39)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 10"/>
+<path d="M249 250L332 250L332 333L249 333L249 250Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_40)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 11"/>
+<path d="M498 499L581 499L581 582L498 582L498 499Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_41)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 12"/>
+<path d="M498 416L581 416L581 499L498 499L498 416Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_42)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 13"/>
+<path d="M166 84L249 84L249 167L166 167L166 84Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_43)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 14"/>
+<path d="M166 167L249 167L249 250L166 250L166 167Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_44)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 16"/>
+<path d="M249 167L332 167L332 250L249 250L249 167Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_45)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 17"/>
+<path d="M664 582L747 582L747 665L664 665L664 582Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_46)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 18"/>
+<path d="M415 416L498 416L498 499L415 499L415 416Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_47)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 19"/>
+<path d="M665.402 665L748.402 665L748.402 748L665.402 748L665.402 665Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_48)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 25"/>
+<path d="M914.402 914L997.402 914L997.402 997L914.402 997L914.402 914Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_49)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 27"/>
+<path d="M831.402 748L914.402 748L914.402 831L831.402 831L831.402 748Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_50)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 30"/>
+<path d="M748.402 748L831.402 748L831.402 831L748.402 831L748.402 748Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_51)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 31"/>
+<path d="M831.402 831L914.402 831L914.402 914L831.402 914L831.402 831Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_52)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 32"/>
+<path d="M914.402 831L997.402 831L997.402 914L914.402 914L914.402 831Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_53)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 33"/>
+<path d="M748.402 665L831.402 665L831.402 748L748.402 748L748.402 665Z" fill="#c60000" fill-rule="nonzero" filter="url(#Filter_54)" opacity="0.976596" stroke="none" vectornator:blur="0.564181" vectornator:layerName="Rectangle 36"/>
+</g>
+</svg>

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tamakemon</title>
+    <link rel="stylesheet" href="style/style.css" />
+    <!-- Scripts -->
+    <script src="script/scriptLevelUp.js" defer></script>
+    <script src="script/scriptFormulaire.js" defer></script>
+    <script src="script/scriptStartGame.js" defer></script>
+    <script src="script/scriptPause.js" defer></script>
+    <!-- Typographie -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="main">
+      <!-- Début page d'arrivée -->
+      <div id="formulaire" class="login">
+        <div class="loginWindow">
+          <p id="login">Login :</p>
+          <form>
+            <label for="tamaName">Name : </label>
+            <input
+              type="text"
+              id="tamaName"
+              maxlength="12"
+              minlength="4"
+              required
+            />
+          </form>
+          <form>
+            <p>Gender :</p>
+
+            <input type="radio" id="female" name="gender" value="(F)" />
+            <label class="radio" for="female">Female</label>
+
+            <input type="radio" id="male" name="gender" value="(M)" />
+            <label class="radio" for="male">Male</label>
+          </form>
+          <div class="save" onclick="startGame()">
+            <p>Save</p>
+          </div>
+        </div>
+      </div>
+      <!-- Fin page d'arrivée -->
+
+      <!-- Début stats -->
+      <div class="stats">
+        <div class="nameGen">
+          <!-- JS fonction choix nom -->
+          <!-- JS fonction choix genre  -->
+        </div>
+
+        <!-- Bars de stats -->
+        <div class="statsBars">
+          <div class="lvl">
+            <p class="level size">LVL <span id="up"></span>:</p>
+            <div id="levelBarProgress">
+              <div id="levelBar"></div>
+            </div>
+          </div>
+          <p class="size">Food :</p>
+          <div id="foodBarProgress">
+            <div id="foodBar"></div>
+          </div>
+          <p class="size">Love :</p>
+          <div id="petBarProgress">
+            <div id="petBar"></div>
+          </div>
+        </div>
+      </div>
+      <!-- Fin stats -->
+
+      <!-- Début Tamakemon -->
+      <img class="tamakemon" src="media/bulbasaur1.svg" />
+      <!-- Début Tamakemon -->
+
+      <!--Début settings -->
+      <img
+        class="settings"
+        src="media/settings.svg"
+        alt="parameters icone"
+        onclick="openSettings()"
+      />
+      <div class="settingsPage hidden" onclick="closeSettings()">
+        <div class="settingsWindow">
+          <div class="closeButton hover" onclick="closeSettings()">
+            <p>X</p>
+          </div>
+          <div class="settingsButtons hover"><p>Règles</p></div>
+          <div class="settingsButtons hover"><p>Music :</p></div>
+        </div>
+      </div>
+
+      <!--Fin settings -->
+
+      <!-- Début barre d'interraction -->
+      <div class="interactionBar">
+        <div class="food">
+          <img class="apple hover" src="media/apple.svg" />
+          <img class="meat hover" src="media/meat.svg" />
+          <img class="fish hover" src="media/fish.svg" />
+        </div>
+        <div class="pet">
+          <img class="petLogo hover" src="media/pet.svg" alt="hand icone" />
+        </div>
+      </div>
+      <!-- Fin barre d'interraction -->
+    </div>
+  </body>
+</html>
